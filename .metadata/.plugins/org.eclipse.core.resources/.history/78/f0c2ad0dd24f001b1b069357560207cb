@@ -1,0 +1,5 @@
+package com.codigorupestre.spacenative.model;
+
+public class Usuario {
+
+}

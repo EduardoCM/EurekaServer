@@ -1,0 +1,13 @@
+package com.codigorupestre.spacenative;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CodigoRupestreEurekaServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CodigoRupestreEurekaServerApplication.class, args);
+	}
+
+}

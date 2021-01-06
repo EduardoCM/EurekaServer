@@ -1,0 +1,9 @@
+package com.codigorupestre.spacenative.model;
+
+
+@Entity
+public class Usuario {
+	
+	 
+
+}

@@ -1,0 +1,5 @@
+package com.codigorupestre.spacenative.repository;
+
+public class UsuarioRepository {
+
+}
